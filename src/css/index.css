@@ -1,0 +1,7 @@
+.container {
+  background: #ff0000;
+}
+
+.dp-tbl {
+  composes: dp-tbl from './layout.css';
+}
