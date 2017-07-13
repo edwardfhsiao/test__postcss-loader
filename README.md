@@ -1,5 +1,8 @@
 # test__postcss-loader
 
+run the command ``` npm i ``` and then ``` npm run build_dev ```
+
+nginx config in the vagrant
 ```
 server {
     listen 80;
